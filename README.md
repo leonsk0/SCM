@@ -10,4 +10,3 @@
 
 "A vingança nunca é plena, mata a alma e envenena" by Madruga, sr
 
-av
