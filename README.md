@@ -1,6 +1,6 @@
 # Introducao ao gerenciamento de codigo fonte
 ---
-##Primeiros passos
+## Primeiros passos
 
 - Clone este repositorio
 - Faça commits locais
